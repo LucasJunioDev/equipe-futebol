@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-image:url(imagens/imagem\ de\ fundo01.jpg);
+    background-size: cover; /* Para cobrir todo o espaço do elemento body */
+    background-repeat:no-repeat; /*Para a imagem não ficar repetindo */   
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+ol, ul {
+    list-style-position: inside;
+    color: aliceblue;
+}
+fundo {
+    background-color: rgba(0, 0, 0, 0.6);
+    display: inline-block;
+    padding: 30px;
+    border-radius: 5px;
+}
